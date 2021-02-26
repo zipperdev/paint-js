@@ -1,3 +1,3 @@
-##PaintJS
+## PaintJS
 
 PaintJS with vanilla JS.
